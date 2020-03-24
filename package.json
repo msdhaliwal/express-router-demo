@@ -1,0 +1,14 @@
+{
+  "name": "express-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "author": "ਮਨਪ੍ਰੀਤ ਸਿੰਘ || Manpreet Singh <rdhaliwal97@outlook.com> (https://github.com/rdhaliwal97)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
